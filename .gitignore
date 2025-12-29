@@ -1,0 +1,8 @@
+/.env
+/.history
+/.streamlit
+/.venv
+/bases
+/client_secret.json
+/credentials.json
+/token.json
