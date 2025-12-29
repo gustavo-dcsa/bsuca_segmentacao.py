@@ -1,0 +1,10 @@
+agno
+google-genai
+lancedb
+pydantic
+pandas
+streamlit
+python-dotenv
+unidecode
+sqlalchemy
+aiofiles
